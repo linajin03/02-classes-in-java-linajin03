@@ -81,6 +81,7 @@ public class Silly implements Comparable<Silly>{
      *       Make sure you document this method!
      */
     public Silly(String something1, String something2) {
+
         this.name = something1 + something2;
     }
 
